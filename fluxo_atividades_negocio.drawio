@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-15T20:31:16.328Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="Vt-RvNSFMRz7QWVkBZ1s" version="24.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-15T20:40:23.063Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="Nri-FGQ6X64FebdWWS0S" version="24.0.2" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="1259" dy="686" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1358" dy="572" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -552,7 +552,7 @@
         <mxCell id="67VtHt4RENRJBgxcd_Gk-128" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="67VtHt4RENRJBgxcd_Gk-70" vertex="1">
           <mxGeometry x="820" y="40" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="67VtHt4RENRJBgxcd_Gk-90" value="Transportadora" style="swimlane;html=1;startSize=20;horizontal=0;" parent="67VtHt4RENRJBgxcd_Gk-56" vertex="1">
+        <mxCell id="67VtHt4RENRJBgxcd_Gk-90" value="S" style="swimlane;html=1;startSize=20;horizontal=0;" parent="67VtHt4RENRJBgxcd_Gk-56" vertex="1">
           <mxGeometry x="20" y="240" width="900" height="120" as="geometry" />
         </mxCell>
         <mxCell id="67VtHt4RENRJBgxcd_Gk-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="67VtHt4RENRJBgxcd_Gk-90" source="67VtHt4RENRJBgxcd_Gk-102" target="67VtHt4RENRJBgxcd_Gk-106" edge="1">
